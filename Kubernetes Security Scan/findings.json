@@ -1,0 +1,4 @@
+{
+  "This file will be generated": "when you run the scan.sh script",
+  "It will contain": "the actual Kubernetes scan findings"
+}
